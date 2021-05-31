@@ -6,7 +6,7 @@ The UI has been constructed as per the current master branch version of the Andr
 #### ScreenShots
 <table>
   <tr>
-    <td>1. SplashScreen(Currently added on Android only)</td>
+    <td>1. SplashScreen</td>
      <td>2. DashBoard</td>
      <td>3. MyTracks</td>
   </tr>
