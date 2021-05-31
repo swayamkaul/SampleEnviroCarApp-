@@ -11,9 +11,9 @@ The UI has been constructed as per the current master branch version of the Andr
      <td>3. MyTracks</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/swayamkaul/SampleEnviroCarCrossPlatform/blob/master/AppScreenShots/SplashScreen.png" width=270 height=480></td>
-    <td><img src="https://github.com/swayamkaul/SampleEnviroCarCrossPlatform/blob/master/AppScreenShots/DashBoard.png" width=270 height=480></td>
-    <td><img src="https://github.com/swayamkaul/SampleEnviroCarCrossPlatform/blob/master/AppScreenShots/MyTracks.png" width=270 height=480></td>
+    <td><img src="https://github.com/swayamkaul/SampleEnviroCarApp-/blob/master/AppScreenShots/SplashScreen.png" width=270 height=480></td>
+    <td><img src="https://github.com/swayamkaul/SampleEnviroCarApp-/blob/master/AppScreenShots/DashBoard.png" width=270 height=480></td>
+    <td><img src="https://github.com/swayamkaul/SampleEnviroCarApp-/blob/master/AppScreenShots/MyTracks.png" width=270 height=480></td>
   </tr>
     <tr>
     <td>1. OtherTab</td>
@@ -21,9 +21,9 @@ The UI has been constructed as per the current master branch version of the Andr
      <td>3. SignUpPage</td>
   </tr>
     <tr>
-    <td><img src="https://github.com/swayamkaul/SampleEnviroCarCrossPlatform/blob/master/AppScreenShots/OtherTab.png" width=270 height=480></td>
-    <td><img src="https://github.com/swayamkaul/SampleEnviroCarCrossPlatform/blob/master/AppScreenShots/SignIn.png" width=270 height=480></td>
-    <td><img src="https://github.com/swayamkaul/SampleEnviroCarCrossPlatform/blob/master/AppScreenShots/LogIn.png" width=270 height=480></td>
+    <td><img src="https://github.com/swayamkaul/SampleEnviroCarApp-/blob/master/AppScreenShots/OtherTab.png" width=270 height=480></td>
+    <td><img src="https://github.com/swayamkaul/SampleEnviroCarApp-/blob/master/AppScreenShots/SignIn.png" width=270 height=480></td>
+    <td><img src="https://github.com/swayamkaul/SampleEnviroCarApp-/blob/master/AppScreenShots/LogIn.png" width=270 height=480></td>
   </tr>
  </table>
  
